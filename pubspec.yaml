@@ -1,6 +1,6 @@
 name: pretty_logger_plus
 description: A colorful, emoji-friendly Flutter logger with automatic debug/release detection.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/Chandan2612/pretty_logger_plus
 repository: https://github.com/Chandan2612/pretty_logger_plus
 issue_tracker: https://github.com/Chandan2612/pretty_logger_plus/issues

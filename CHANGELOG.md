@@ -5,3 +5,7 @@
 - ✅ Basic log levels: debug, info, warning, error
 - 🎉 Added emoji indicators for log levels
 - 🎨 Colored console output
+
+## 1.0.2
+- Fixed README package name
+- Minor cleanup
